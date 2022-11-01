@@ -1,0 +1,23 @@
+{
+  "name": "crud_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiroMunoz01/CRUD_NODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiroMunoz01/CRUD_NODE/issues"
+  },
+  "homepage": "https://github.com/EmiroMunoz01/CRUD_NODE#readme",
+  "dependencies": {
+    "mongoose": "^6.7.0"
+  }
+}
